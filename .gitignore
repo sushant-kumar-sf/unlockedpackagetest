@@ -1,2 +1,4 @@
-.sfdx
-.sf
+.sfdx/*
+.sf/*
+**/profiles/*
+**/appMenus/*
