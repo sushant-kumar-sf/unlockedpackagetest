@@ -4,8 +4,8 @@
             "path": "force-app",
             "default": true,
             "package": "UnlockedPackageTest",
-            "versionName": "ver 0.1",
-            "versionNumber": "0.1.0.NEXT"
+            "versionName": "Version 0.3 (Hello, hey)",
+            "versionNumber": "0.3.0.NEXT"
         }
     ],
     "name": "UnlockedPackageTest",
@@ -14,6 +14,8 @@
     "sourceApiVersion": "54.0",
     "packageAliases": {
         "UnlockedPackageTest": "0Ho5i0000008OLdCAM",
-        "UnlockedPackageTest@0.1.0-1": "04t5i000000Pz4AAAS"
+        "UnlockedPackageTest@0.1.0-1": "04t5i000000Pz4AAAS",
+        "UnlockedPackageTest@0.2.0-1": "04t5i000000Pz4FAAS",
+        "UnlockedPackageTest@0.3.0-1": "04t5i000000Pz4KAAS"
     }
 }
