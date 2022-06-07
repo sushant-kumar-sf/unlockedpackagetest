@@ -4,8 +4,8 @@
             "path": "force-app",
             "default": true,
             "package": "UnlockedPackageTest",
-            "versionName": "Version 0.3 (Hello, hey)",
-            "versionNumber": "0.3.0.NEXT"
+            "versionName": "Version 0.5 (Hello, hey, Contacts View)",
+            "versionNumber": "0.5.0.NEXT"
         }
     ],
     "name": "UnlockedPackageTest",
@@ -16,6 +16,10 @@
         "UnlockedPackageTest": "0Ho5i0000008OLdCAM",
         "UnlockedPackageTest@0.1.0-1": "04t5i000000Pz4AAAS",
         "UnlockedPackageTest@0.2.0-1": "04t5i000000Pz4FAAS",
-        "UnlockedPackageTest@0.3.0-1": "04t5i000000Pz4KAAS"
+        "UnlockedPackageTest@0.3.0-1": "04t5i000000Pz4KAAS",
+        "UnlockedPackageTest@0.4.0-1": "04t5i000000Q0gTAAS",
+        "UnlockedPackageTest@0.4.0-2": "04t5i000000Q0gYAAS",
+        "UnlockedPackageTest@0.4.0-3": "04t5i000000Q0klAAC",
+        "UnlockedPackageTest@0.4.0-4": "04t5i000000Q0kqAAC"
     }
 }
