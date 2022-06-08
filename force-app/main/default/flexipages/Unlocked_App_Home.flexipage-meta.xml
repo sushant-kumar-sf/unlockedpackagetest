@@ -21,6 +21,12 @@
         <type>Region</type>
     </flexiPageRegions>
     <flexiPageRegions>
+        <itemInstances>
+            <componentInstance>
+                <componentName>contactsView</componentName>
+                <identifier>c_contactsView1</identifier>
+            </componentInstance>
+        </itemInstances>
         <name>region3</name>
         <type>Region</type>
     </flexiPageRegions>

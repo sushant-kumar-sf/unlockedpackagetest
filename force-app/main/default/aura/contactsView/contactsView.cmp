@@ -1,0 +1,25 @@
+<aura:component controller="ContactsController" implements="flexipage:availableForAllPageTypes">
+
+    <aura:attribute name="searchText" type="String" default="" />
+    <aura:attribute name="columns" type="List" default="[]" />
+    <aura:attribute name="data" type="List" default="[]" />
+
+    <aura:handler name="init" value="{!this}" action="{!c.doInit}" />
+
+    <lightning:card title="Contact Search" iconName="utility:search">
+
+        <lightning:layout multipleRows="true">
+
+            <lightning:layoutItem size="12" padding="around-small">
+                <lightning:input type="search" value="{!v.searchText}" label="Enter Name" onchange="{!c.handleSearch}" />
+            </lightning:layoutItem>
+
+            <lightning:layoutItem size="12" padding="around-small">
+                <lightning:datatable columns="{!v.columns}" data="{!v.data}" keyField="Id" ></lightning:datatable>
+            </lightning:layoutItem>
+
+        </lightning:layout>
+
+    </lightning:card>
+
+</aura:component>	
