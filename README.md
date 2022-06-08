@@ -16,3 +16,4 @@ Here last 18 charecters are package version id which can be found here `sfdx-pro
 |--------------|---------|------------|-------------------|
 | ver 0.1 | Hello World | 04t5i000000Pz4FAAS | https://login.salesforce.com/packaging/installPackage.apexp?p0=04t5i000000Pz4FAAS |
 | Version 0.3 | Hey World | 04t5i000000Pz4KAAS | https://login.salesforce.com/packaging/installPackage.apexp?p0=04t5i000000Pz4KAAS |
+| Version 0.5 | Contacts View | 04t5i000000Q1ETAA0 | https://login.salesforce.com/packaging/installPackage.apexp?p0=04t5i000000Q1ETAA0 |
