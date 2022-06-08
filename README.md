@@ -3,7 +3,7 @@
 This is an unlocked package testing
 
 ## Unlocked Package vs Unmanaged package
-This topic is summurise by sfdx fox on stackoverflow very well here (https://salesforce.stackexchange.com/questions/293491/unlocked-packages-vs-unmanaged-packages)[https://salesforce.stackexchange.com/questions/293491/unlocked-packages-vs-unmanaged-packages]
+This topic is summurise by sfdx fox on stackoverflow very well here [https://salesforce.stackexchange.com/questions/293491/unlocked-packages-vs-unmanaged-packages](https://salesforce.stackexchange.com/questions/293491/unlocked-packages-vs-unmanaged-packages)
 
 ## Installation
 Package installation link consist of a base url + package version.
